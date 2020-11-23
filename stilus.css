@@ -1,0 +1,67 @@
+body{background-image: url(kepek/erdo.jpg);
+    color:green;}
+h1,h2{
+    text-align: center;
+    color: darkgreen;
+}
+#center{
+    margin: 0 auto 0 auto;
+    width: 800px;
+    color: darkgreen;
+}
+span{
+    font-weight: 	bold;	
+}
+a:link{
+    color: green;
+}
+#leiras{
+    margin-left: 50px;
+    margin-right: 130px;
+}
+#kozepsokep{
+    text-align: center;
+    width: 90%;
+}
+.hazKepek{
+    width: 20%;
+    text-align: center;
+}
+.alahuzas{
+    font-weight:normal;
+    text-decoration: underline;
+}
+table, th, td {
+    border: 1px solid darkgreen;
+    text-align: center;
+    
+}
+th,td {
+    height: 30px;
+  }
+.jobbra{
+    padding-left: 20px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.tablazat{
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    width:50%; 
+    margin-left:25%; 
+    margin-right:15%;
+}
+#szoveg{    
+    text-align: center;
+}
+#jobbkep{
+    float: right;
+    text-align: center;   
+}
+ #jobbkep img{
+     width: 120px;
+}
+#alsovonal{
+    height: 10px;
+    background-color: darkgreen;
+}
